@@ -1,0 +1,25 @@
+{
+  "structured_status": "ok",
+  "structured_condition_report_counts": {
+    "alphapose_motionbert": 40,
+    "sam3db": 40
+  },
+  "structured_paired_report_count": 40,
+  "risk_summary_label_change_rate": 0.1917,
+  "key_factor_label_change_rate": 0.4143,
+  "key_factor_positive_jaccard_mean": 0.5632,
+  "insufficient_evidence_rate": {
+    "alphapose_motionbert_risk_summary": 0.1667,
+    "alphapose_motionbert_key_factors": 0.3571,
+    "sam3db_risk_summary": 0.0167,
+    "sam3db_key_factors": 0.0179
+  },
+  "natural_status": "ok",
+  "natural_condition_report_counts": {
+    "alphapose_motionbert": 40,
+    "sam3db": 40
+  },
+  "natural_cross_condition_pair_count": 200,
+  "natural_key_factor_jaccard_mean": 0.7188,
+  "natural_recommendation_jaccard_mean": 0.4512
+}

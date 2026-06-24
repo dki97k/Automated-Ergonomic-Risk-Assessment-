@@ -1,0 +1,13 @@
+﻿Category,Part,start_frame,end_frame,duration_sec
+Total,Whole Body,0,256,8.57
+Total,Whole Body,367,1698,44.4
+Part,Trunk,37,256,7.33
+Part,Trunk,371,1028,21.93
+Part,Trunk,1057,1698,21.4
+Part,Legs,91,254,5.47
+Part,Legs,367,680,10.47
+Part,Legs,701,1698,33.27
+Part,Arms (L),1285,1479,6.5
+Part,Arms (R),0,194,6.5
+Part,Arms (R),698,920,7.43
+Part,Arms (R),1353,1494,4.73

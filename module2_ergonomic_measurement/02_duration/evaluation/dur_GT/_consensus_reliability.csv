@@ -1,0 +1,9 @@
+﻿clip,n_raters,rater_nseg,consensus_nseg,pairwise_frame_IoU,fleiss_kappa
+MansoryBrickLaying_00,3,"[4, 4, 4]",4,1.0,1.0
+MansoryBrickLaying_01,3,"[11, 11, 11]",11,1.0,1.0
+MansoryBrickLaying_02,3,"[13, 13, 13]",13,1.0,1.0
+MansoryCement_02,3,"[18, 18, 18]",18,1.0,1.0
+RebarPlacement_00,3,"[11, 11, 11]",11,1.0,1.0
+RebarTying_00,3,"[2, 2, 2]",2,1.0,1.0
+RebarTying_01,3,"[1, 1, 1]",1,1.0,1.0
+WallPlacement_00,3,"[18, 18, 18]",18,1.0,1.0

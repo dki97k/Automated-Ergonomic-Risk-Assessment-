@@ -1,0 +1,3 @@
+pipeline,n,BLC_CV_m1eval,JAF_invalid_percent_m1eval
+AlphaPose-MotionBERT,200,0.5103930133366964,18.5
+SAM-3DBody,200,0.18188173323869705,0.0

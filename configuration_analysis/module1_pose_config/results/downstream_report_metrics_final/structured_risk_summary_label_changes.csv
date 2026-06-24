@@ -1,0 +1,121 @@
+case_id,run_index,risk_item,alpha_label,sam_label,changed
+case_01,1,posture_risk,High,High,False
+case_01,1,duration_risk,Low,Low,False
+case_01,1,repetition_risk,High,High,False
+case_01,2,posture_risk,High,High,False
+case_01,2,duration_risk,Low,Low,False
+case_01,2,repetition_risk,High,High,False
+case_01,3,posture_risk,High,High,False
+case_01,3,duration_risk,Low,Low,False
+case_01,3,repetition_risk,High,High,False
+case_01,4,posture_risk,High,High,False
+case_01,4,duration_risk,Low,Low,False
+case_01,4,repetition_risk,High,High,False
+case_01,5,posture_risk,High,High,False
+case_01,5,duration_risk,Low,Low,False
+case_01,5,repetition_risk,Insufficient evidence,High,True
+case_02,1,posture_risk,High,High,False
+case_02,1,duration_risk,High,High,False
+case_02,1,repetition_risk,High,High,False
+case_02,2,posture_risk,High,High,False
+case_02,2,duration_risk,High,High,False
+case_02,2,repetition_risk,High,High,False
+case_02,3,posture_risk,High,High,False
+case_02,3,duration_risk,High,High,False
+case_02,3,repetition_risk,High,High,False
+case_02,4,posture_risk,High,High,False
+case_02,4,duration_risk,High,High,False
+case_02,4,repetition_risk,High,High,False
+case_02,5,posture_risk,High,High,False
+case_02,5,duration_risk,High,High,False
+case_02,5,repetition_risk,High,High,False
+case_03,1,posture_risk,High,High,False
+case_03,1,duration_risk,High,Low,True
+case_03,1,repetition_risk,High,High,False
+case_03,2,posture_risk,High,High,False
+case_03,2,duration_risk,High,Low,True
+case_03,2,repetition_risk,High,High,False
+case_03,3,posture_risk,High,High,False
+case_03,3,duration_risk,High,Low,True
+case_03,3,repetition_risk,High,High,False
+case_03,4,posture_risk,High,High,False
+case_03,4,duration_risk,High,Low,True
+case_03,4,repetition_risk,High,High,False
+case_03,5,posture_risk,High,High,False
+case_03,5,duration_risk,High,Low,True
+case_03,5,repetition_risk,High,High,False
+case_04,1,posture_risk,High,High,False
+case_04,1,duration_risk,High,High,False
+case_04,1,repetition_risk,Insufficient evidence,High,True
+case_04,2,posture_risk,High,High,False
+case_04,2,duration_risk,High,High,False
+case_04,2,repetition_risk,Insufficient evidence,High,True
+case_04,3,posture_risk,High,High,False
+case_04,3,duration_risk,High,High,False
+case_04,3,repetition_risk,Insufficient evidence,High,True
+case_04,4,posture_risk,High,High,False
+case_04,4,duration_risk,High,High,False
+case_04,4,repetition_risk,High,High,False
+case_04,5,posture_risk,High,High,False
+case_04,5,duration_risk,High,High,False
+case_04,5,repetition_risk,High,High,False
+case_05,1,posture_risk,High,High,False
+case_05,1,duration_risk,High,High,False
+case_05,1,repetition_risk,Insufficient evidence,High,True
+case_05,2,posture_risk,High,High,False
+case_05,2,duration_risk,High,High,False
+case_05,2,repetition_risk,Insufficient evidence,High,True
+case_05,3,posture_risk,High,High,False
+case_05,3,duration_risk,High,High,False
+case_05,3,repetition_risk,Insufficient evidence,High,True
+case_05,4,posture_risk,High,High,False
+case_05,4,duration_risk,High,High,False
+case_05,4,repetition_risk,Insufficient evidence,Insufficient evidence,False
+case_05,5,posture_risk,High,High,False
+case_05,5,duration_risk,High,High,False
+case_05,5,repetition_risk,Insufficient evidence,Insufficient evidence,False
+case_06,1,posture_risk,High,High,False
+case_06,1,duration_risk,High,High,False
+case_06,1,repetition_risk,Insufficient evidence,High,True
+case_06,2,posture_risk,High,High,False
+case_06,2,duration_risk,High,High,False
+case_06,2,repetition_risk,Insufficient evidence,High,True
+case_06,3,posture_risk,High,High,False
+case_06,3,duration_risk,High,High,False
+case_06,3,repetition_risk,Insufficient evidence,High,True
+case_06,4,posture_risk,High,High,False
+case_06,4,duration_risk,High,High,False
+case_06,4,repetition_risk,Insufficient evidence,High,True
+case_06,5,posture_risk,High,High,False
+case_06,5,duration_risk,High,High,False
+case_06,5,repetition_risk,Insufficient evidence,High,True
+case_07,1,posture_risk,High,High,False
+case_07,1,duration_risk,High,High,False
+case_07,1,repetition_risk,High,High,False
+case_07,2,posture_risk,High,High,False
+case_07,2,duration_risk,High,High,False
+case_07,2,repetition_risk,High,High,False
+case_07,3,posture_risk,High,High,False
+case_07,3,duration_risk,High,High,False
+case_07,3,repetition_risk,Insufficient evidence,High,True
+case_07,4,posture_risk,High,High,False
+case_07,4,duration_risk,High,High,False
+case_07,4,repetition_risk,High,High,False
+case_07,5,posture_risk,High,High,False
+case_07,5,duration_risk,High,High,False
+case_07,5,repetition_risk,High,High,False
+case_08,1,posture_risk,High,High,False
+case_08,1,duration_risk,High,High,False
+case_08,1,repetition_risk,Insufficient evidence,High,True
+case_08,2,posture_risk,High,High,False
+case_08,2,duration_risk,High,High,False
+case_08,2,repetition_risk,Insufficient evidence,High,True
+case_08,3,posture_risk,High,High,False
+case_08,3,duration_risk,High,High,False
+case_08,3,repetition_risk,Insufficient evidence,High,True
+case_08,4,posture_risk,High,High,False
+case_08,4,duration_risk,High,High,False
+case_08,4,repetition_risk,Insufficient evidence,High,True
+case_08,5,posture_risk,High,High,False
+case_08,5,duration_risk,High,High,False
+case_08,5,repetition_risk,Insufficient evidence,High,True

@@ -1,0 +1,75 @@
+{
+  "analysis": "module1_pose_configuration_contribution",
+  "conditions": [
+    "alphapose_motionbert",
+    "sam3db"
+  ],
+  "case_count": 8,
+  "case_mapping_note": "Prompt-visible payloads use anonymized case IDs. Source case IDs are retained only in this manifest for auditability.",
+  "cases": [
+    {
+      "case_id": "case_01",
+      "source_case": "MansoryBrickLaying_00",
+      "payloads": {
+        "alphapose_motionbert": "<private_workspace>/configuration_analysis/m1_config/payloads/alphapose_motionbert/case_01.json",
+        "sam3db": "<private_workspace>/configuration_analysis/m1_config/payloads/sam3db/case_01.json"
+      }
+    },
+    {
+      "case_id": "case_02",
+      "source_case": "MansoryBrickLaying_01",
+      "payloads": {
+        "alphapose_motionbert": "<private_workspace>/configuration_analysis/m1_config/payloads/alphapose_motionbert/case_02.json",
+        "sam3db": "<private_workspace>/configuration_analysis/m1_config/payloads/sam3db/case_02.json"
+      }
+    },
+    {
+      "case_id": "case_03",
+      "source_case": "MansoryBrickLaying_02",
+      "payloads": {
+        "alphapose_motionbert": "<private_workspace>/configuration_analysis/m1_config/payloads/alphapose_motionbert/case_03.json",
+        "sam3db": "<private_workspace>/configuration_analysis/m1_config/payloads/sam3db/case_03.json"
+      }
+    },
+    {
+      "case_id": "case_04",
+      "source_case": "MansoryCement_02",
+      "payloads": {
+        "alphapose_motionbert": "<private_workspace>/configuration_analysis/m1_config/payloads/alphapose_motionbert/case_04.json",
+        "sam3db": "<private_workspace>/configuration_analysis/m1_config/payloads/sam3db/case_04.json"
+      }
+    },
+    {
+      "case_id": "case_05",
+      "source_case": "RebarPlacement_00",
+      "payloads": {
+        "alphapose_motionbert": "<private_workspace>/configuration_analysis/m1_config/payloads/alphapose_motionbert/case_05.json",
+        "sam3db": "<private_workspace>/configuration_analysis/m1_config/payloads/sam3db/case_05.json"
+      }
+    },
+    {
+      "case_id": "case_06",
+      "source_case": "RebarTying_01",
+      "payloads": {
+        "alphapose_motionbert": "<private_workspace>/configuration_analysis/m1_config/payloads/alphapose_motionbert/case_06.json",
+        "sam3db": "<private_workspace>/configuration_analysis/m1_config/payloads/sam3db/case_06.json"
+      }
+    },
+    {
+      "case_id": "case_07",
+      "source_case": "RebarTying_02",
+      "payloads": {
+        "alphapose_motionbert": "<private_workspace>/configuration_analysis/m1_config/payloads/alphapose_motionbert/case_07.json",
+        "sam3db": "<private_workspace>/configuration_analysis/m1_config/payloads/sam3db/case_07.json"
+      }
+    },
+    {
+      "case_id": "case_08",
+      "source_case": "WallPlacement_00",
+      "payloads": {
+        "alphapose_motionbert": "<private_workspace>/configuration_analysis/m1_config/payloads/alphapose_motionbert/case_08.json",
+        "sam3db": "<private_workspace>/configuration_analysis/m1_config/payloads/sam3db/case_08.json"
+      }
+    }
+  ]
+}

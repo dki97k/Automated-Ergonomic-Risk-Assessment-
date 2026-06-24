@@ -1,0 +1,15 @@
+﻿rep_id,start_frame,end_frame,start_sec,end_sec,dur_s,look_at_frame,source_joint,verified
+1,182,382,6.1,12.7,6.67,282,upperarm.left_flexion,NO
+2,382,666,12.7,22.2,9.5,523,upperarm.left_flexion,NO
+3,666,873,22.2,29.1,6.9,769,upperarm.left_flexion,NO
+4,873,1045,29.1,34.8,5.83,960,upperarm.left_flexion,NO
+5,1045,1320,34.8,44.0,9.17,1182,upperarm.left_flexion,NO
+6,1320,1528,44.0,50.9,6.93,1424,upperarm.left_flexion,NO
+7,1528,1738,50.9,57.9,7.0,1633,upperarm.left_flexion,NO
+8,1738,1980,57.9,66.0,8.07,1859,upperarm.left_flexion,NO
+9,1980,2231,66.0,74.4,8.37,2105,upperarm.left_flexion,NO
+10,2231,2625,74.4,87.5,13.13,2428,upperarm.left_flexion,NO
+11,2625,2823,87.5,94.1,6.6,2724,upperarm.left_flexion,NO
+12,2823,2988,94.1,99.6,5.5,2905,upperarm.left_flexion,NO
+13,2988,3375,99.6,112.5,12.9,3181,upperarm.left_flexion,NO
+14,3375,3651,112.5,121.7,9.2,3513,upperarm.left_flexion,NO

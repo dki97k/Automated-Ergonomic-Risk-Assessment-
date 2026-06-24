@@ -1,0 +1,25 @@
+﻿rep_id,start_frame,end_frame,start_sec,end_sec,dur_s,look_at_frame,source_joint,verified
+1,240,395,8.0,13.2,5.17,317,lower arm.right_flexion,NO
+2,395,514,13.2,17.1,3.97,454,lower arm.right_flexion,NO
+3,514,681,17.1,22.7,5.57,597,lower arm.right_flexion,NO
+4,681,870,22.7,29.0,6.3,775,lower arm.right_flexion,NO
+5,870,1013,29.0,33.8,4.77,941,lower arm.right_flexion,NO
+6,1013,1457,33.8,48.6,14.8,1235,lower arm.right_flexion,NO
+7,1457,1691,48.6,56.4,7.8,1574,lower arm.right_flexion,NO
+8,1691,1805,56.4,60.2,3.8,1748,lower arm.right_flexion,NO
+9,1805,1958,60.2,65.3,5.1,1881,lower arm.right_flexion,NO
+10,1958,2241,65.3,74.7,9.43,2099,lower arm.right_flexion,NO
+11,2241,2403,74.7,80.1,5.4,2322,lower arm.right_flexion,NO
+12,2403,2543,80.1,84.8,4.67,2473,lower arm.right_flexion,NO
+13,2543,2705,84.8,90.2,5.4,2624,lower arm.right_flexion,NO
+14,2705,2849,90.2,95.0,4.8,2777,lower arm.right_flexion,NO
+15,2849,3079,95.0,102.6,7.67,2964,lower arm.right_flexion,NO
+16,3079,3276,102.6,109.2,6.57,3177,lower arm.right_flexion,NO
+17,3276,3390,109.2,113.0,3.8,3333,lower arm.right_flexion,NO
+18,3390,3619,113.0,120.6,7.63,3504,lower arm.right_flexion,NO
+19,3619,3847,120.6,128.2,7.6,3733,lower arm.right_flexion,NO
+20,3847,4221,128.2,140.7,12.47,4034,lower arm.right_flexion,NO
+21,4221,4373,140.7,145.8,5.07,4297,lower arm.right_flexion,NO
+22,4373,4695,145.8,156.5,10.73,4534,lower arm.right_flexion,NO
+23,4695,4867,156.5,162.2,5.73,4781,lower arm.right_flexion,NO
+24,4867,4988,162.2,166.3,4.03,4927,lower arm.right_flexion,NO

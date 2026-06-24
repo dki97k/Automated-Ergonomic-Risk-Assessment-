@@ -1,0 +1,7 @@
+condition,criterion,n_comparisons,win_rate,loss_rate,tie_rate,mean_signed_preference_strength,std_signed_preference_strength
+module2_only__bounded_context_augmented,overall,80,0.4125,0.3875,0.2,0.025,0.8997
+module2_only__neutral,overall,80,0.3125,0.6875,0.0,-0.375,0.9329
+module2_only__original_rgb_compatible,overall,120,0.725,0.075,0.2,0.65,0.617
+module2_rgb__bounded_context_augmented,overall,80,0.15,0.8125,0.0375,-0.6625,0.7282
+module2_rgb__neutral,overall,80,0.1875,0.8125,0.0,-0.6625,0.8259
+module2_rgb__original_rgb_compatible,overall,120,0.675,0.2333,0.0917,0.4667,0.8786

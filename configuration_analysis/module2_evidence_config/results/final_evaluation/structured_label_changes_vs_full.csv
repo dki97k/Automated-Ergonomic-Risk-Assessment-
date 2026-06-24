@@ -1,0 +1,561 @@
+comparison,case_id,run_index,factor,source_label,full_module2_label,changed,source_insufficient,full_insufficient
+rgb_only_vs_full_module2,case_01,1,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,1,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,1,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,1,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,1,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_01,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,2,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,2,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,2,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,2,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,2,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,2,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_01,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,3,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,3,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,3,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,3,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,3,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,3,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_01,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,4,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_01,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,5,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,5,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,5,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,5,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,5,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_01,5,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_01,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,1,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,1,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,1,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,1,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,2,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,2,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,2,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,2,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,2,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,3,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,3,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,3,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,3,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,3,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,5,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,5,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,5,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,5,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,5,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_02,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,1,trunk_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,1,neck_overflexion_or_extension,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,1,upper_arm_elevation,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,1,wrist_deviation,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,1,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,2,trunk_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,2,neck_overflexion_or_extension,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,2,upper_arm_elevation,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,2,wrist_deviation,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,2,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,2,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,3,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,3,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,3,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,3,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,3,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,3,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,4,trunk_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,4,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,5,trunk_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,5,neck_overflexion_or_extension,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,5,upper_arm_elevation,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,5,wrist_deviation,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,5,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_03,5,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_03,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,1,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,1,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,1,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,1,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,2,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,2,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,2,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,2,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,2,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,3,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,3,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,3,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,3,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,3,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,5,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,5,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,5,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,5,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,5,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_04,5,prolonged_static_posture,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_04,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,1,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,1,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,1,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,1,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,2,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,2,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,2,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,2,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,2,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,3,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,3,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,3,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,3,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,3,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,5,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,5,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,5,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,5,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,5,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_05,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,1,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,1,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,1,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,1,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,2,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,2,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,2,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,2,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,2,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,3,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,3,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,3,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,3,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,3,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,5,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,5,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,5,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,5,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,5,knee_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_06,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_06,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,1,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,1,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,1,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,1,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,1,knee_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_07,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,2,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,2,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,2,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,2,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,2,knee_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_07,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,3,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,3,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,3,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,3,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,3,knee_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_07,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,4,knee_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_07,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,5,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,5,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,5,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,5,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,5,knee_overflexion,Insufficient evidence,No,True,True,False
+rgb_only_vs_full_module2,case_07,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_07,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,1,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,1,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,1,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,1,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,2,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,2,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,2,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,2,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,2,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,3,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,3,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,3,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,3,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,3,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,5,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,5,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,5,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,5,wrist_deviation,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,5,knee_overflexion,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+rgb_only_vs_full_module2,case_08,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,1,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,1,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,1,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,1,wrist_deviation,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,1,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_01,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,2,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_01,2,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_01,2,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_01,2,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_01,2,knee_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,2,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_01,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,3,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,3,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,3,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,3,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,3,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,3,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_01,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,4,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_01,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_01,5,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,5,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,5,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,5,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,5,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_01,5,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_01,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,1,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,1,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,1,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,1,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,1,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,2,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,2,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,2,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,2,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,2,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,3,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,3,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,3,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,3,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,3,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,4,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_02,4,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_02,4,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_02,4,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,4,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,5,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_02,5,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_02,5,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_02,5,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,5,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_02,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_02,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_03,1,trunk_overflexion,No,No,False,False,False
+reba_only_vs_full_module2,case_03,1,neck_overflexion_or_extension,No,No,False,False,False
+reba_only_vs_full_module2,case_03,1,upper_arm_elevation,No,No,False,False,False
+reba_only_vs_full_module2,case_03,1,wrist_deviation,No,No,False,False,False
+reba_only_vs_full_module2,case_03,1,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,1,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_03,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_03,2,trunk_overflexion,No,No,False,False,False
+reba_only_vs_full_module2,case_03,2,neck_overflexion_or_extension,No,No,False,False,False
+reba_only_vs_full_module2,case_03,2,upper_arm_elevation,No,No,False,False,False
+reba_only_vs_full_module2,case_03,2,wrist_deviation,No,No,False,False,False
+reba_only_vs_full_module2,case_03,2,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,2,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_03,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_03,3,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,3,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,3,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,3,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,3,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,3,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_03,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_03,4,trunk_overflexion,No,No,False,False,False
+reba_only_vs_full_module2,case_03,4,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,4,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,4,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,4,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,4,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_03,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_03,5,trunk_overflexion,No,No,False,False,False
+reba_only_vs_full_module2,case_03,5,neck_overflexion_or_extension,No,No,False,False,False
+reba_only_vs_full_module2,case_03,5,upper_arm_elevation,No,No,False,False,False
+reba_only_vs_full_module2,case_03,5,wrist_deviation,No,No,False,False,False
+reba_only_vs_full_module2,case_03,5,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_03,5,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_03,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,1,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,1,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,1,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,1,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,1,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,2,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,2,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,2,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,2,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,2,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,3,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,3,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,3,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,3,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,3,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,4,trunk_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,4,neck_overflexion_or_extension,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,4,upper_arm_elevation,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,4,wrist_deviation,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,4,knee_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_04,5,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,5,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,5,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,5,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,5,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_04,5,prolonged_static_posture,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_04,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,1,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,1,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,1,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,1,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,2,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,2,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,2,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,2,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,2,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,3,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,3,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,3,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,3,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,3,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,4,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,4,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,4,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,4,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,4,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_05,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,5,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_05,5,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_05,5,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_05,5,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_05,5,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_05,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_05,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,1,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,1,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,1,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,1,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,1,knee_overflexion,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,2,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,2,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,2,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,2,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,2,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,3,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,3,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,3,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,3,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,3,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,4,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,4,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,4,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,4,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,4,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,5,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,5,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,5,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,5,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_06,5,knee_overflexion,Yes,No,True,False,False
+reba_only_vs_full_module2,case_06,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_06,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,1,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,1,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,1,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,1,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,1,knee_overflexion,Yes,No,True,False,False
+reba_only_vs_full_module2,case_07,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,2,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,2,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,2,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,2,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,2,knee_overflexion,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_07,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,3,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,3,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,3,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,3,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,3,knee_overflexion,Insufficient evidence,No,True,True,False
+reba_only_vs_full_module2,case_07,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,4,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,4,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,4,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,4,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,4,knee_overflexion,Yes,No,True,False,False
+reba_only_vs_full_module2,case_07,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,5,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,5,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,5,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,5,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_07,5,knee_overflexion,Yes,No,True,False,False
+reba_only_vs_full_module2,case_07,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_07,5,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,1,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,1,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,1,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,1,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,1,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,1,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,1,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,2,trunk_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,2,neck_overflexion_or_extension,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,2,upper_arm_elevation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,2,wrist_deviation,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,2,knee_overflexion,No,Yes,True,False,False
+reba_only_vs_full_module2,case_08,2,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,2,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,3,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,3,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,3,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,3,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,3,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,3,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,3,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,4,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,4,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,4,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,4,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,4,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,4,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,4,repetitive_work,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,5,trunk_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,5,neck_overflexion_or_extension,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,5,upper_arm_elevation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,5,wrist_deviation,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,5,knee_overflexion,Yes,Yes,False,False,False
+reba_only_vs_full_module2,case_08,5,prolonged_static_posture,Insufficient evidence,Yes,True,True,False
+reba_only_vs_full_module2,case_08,5,repetitive_work,Insufficient evidence,Yes,True,True,False

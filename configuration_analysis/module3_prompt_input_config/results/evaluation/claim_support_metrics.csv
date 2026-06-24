@@ -1,0 +1,13 @@
+group_type,group,labeled_claims,supported_claim_rate,unsupported_claim_rate,contradiction_rate
+overall,overall,2117,0.7515,0.2409,0.0076
+condition,module2_only__bounded_context_augmented,314,0.5478,0.4522,0.0
+condition,module2_only__neutral,417,0.7578,0.2422,0.0
+condition,module2_only__original_rgb_compatible,318,0.6667,0.3176,0.0157
+condition,module2_rgb__bounded_context_augmented,359,0.922,0.078,0.0
+condition,module2_rgb__neutral,362,0.7155,0.2845,0.0
+condition,module2_rgb__original_rgb_compatible,347,0.8674,0.1009,0.0317
+input_condition,module2_only,1049,0.6673,0.3279,0.0048
+input_condition,module2_rgb,1068,0.8343,0.1554,0.0103
+prompt_condition,bounded_context_augmented,673,0.7474,0.2526,0.0
+prompt_condition,neutral,779,0.7381,0.2619,0.0
+prompt_condition,original_rgb_compatible,665,0.7714,0.2045,0.0241

@@ -1,0 +1,168 @@
+{
+  "case_id": "case_01",
+  "evidence_configuration": "sam3db",
+  "evidence_available": {
+    "shared_body_posture": true,
+    "full_reba_final": true,
+    "neck_scoring": true,
+    "wrist_scoring": true,
+    "duration": true,
+    "repetition": true,
+    "rgb": false
+  },
+  "evidence_limitation": "SAM-3DB provides shared body posture, duration, repetition, and additional neck/wrist evidence. RGB visual context is not included in this Module 1 configuration payload.",
+  "meta": {
+    "fps": 30,
+    "total_frames": 1662,
+    "total_duration_sec": 55.4,
+    "missing_rows": 0
+  },
+  "shared_posture_summary": {
+    "scope": "trunk, upper arm, lower arm, and leg only",
+    "risk_bin_basis": "p90 shared-region posture score",
+    "regions": {
+      "trunk": {
+        "mean_score": 2.279,
+        "p90_score": 3.0,
+        "peak_score": 5,
+        "risk_bin": "High",
+        "n_frames": 1662
+      },
+      "upper_arm": {
+        "mean_score": 1.82,
+        "p90_score": 3.0,
+        "peak_score": 3,
+        "risk_bin": "High",
+        "n_frames": 1662
+      },
+      "lower_arm": {
+        "mean_score": 1.803,
+        "p90_score": 2.0,
+        "peak_score": 2,
+        "risk_bin": "High",
+        "n_frames": 1662
+      },
+      "leg": {
+        "mean_score": 1.455,
+        "p90_score": 2.0,
+        "peak_score": 4,
+        "risk_bin": "Medium",
+        "n_frames": 1662
+      }
+    }
+  },
+  "shared_joint_angle_summary": {
+    "scope": "angles computable from major body joints common to both pose configurations",
+    "trunk_flexion_deg": {
+      "mean": 20.936,
+      "p90": 57.695,
+      "max": 69.662
+    },
+    "trunk_bending_abs_deg": {
+      "mean": 3.508,
+      "p90": 7.866,
+      "max": 10.902
+    },
+    "trunk_twisting_abs_deg": {
+      "mean": 5.968,
+      "p90": 13.701,
+      "max": 29.306
+    },
+    "upper_arm_flexion_deg": {
+      "mean": 20.87,
+      "p90": 54.491,
+      "max": 80.225
+    },
+    "upper_arm_abduction_deg": {
+      "mean": 32.013,
+      "p90": 52.659,
+      "max": 73.517
+    },
+    "lower_arm_flexion_deg": {
+      "mean": 43.857,
+      "p90": 67.071,
+      "max": 83.681
+    },
+    "knee_flexion_deg": {
+      "mean": 30.6,
+      "p90": 47.709,
+      "max": 79.766
+    },
+    "leg_support_ratio": {
+      "mean": 0.499,
+      "p90": 0.505,
+      "max": 0.554
+    }
+  },
+  "additional_pose_dependent_evidence": {
+    "full_reba_final": {
+      "mean": 3.661,
+      "p90": 6.0,
+      "max": 10.0,
+      "risk_bin_distribution": {
+        "low": 0.497,
+        "medium": 0.468,
+        "high": 0.035
+      },
+      "longest_high_risk_run_frames": 17,
+      "longest_high_risk_run_sec": 0.567
+    },
+    "neck_reba": {
+      "mean": 2.171,
+      "p90": 3.0,
+      "max": 3.0
+    },
+    "wrist_reba": {
+      "mean": 1.368,
+      "p90": 2.0,
+      "max": 3.0
+    },
+    "neck_joint_angles": {
+      "flexion_deg": {
+        "mean": 28.457,
+        "p90": 37.554,
+        "max": 43.763
+      },
+      "bending_deg": {
+        "mean": 7.028,
+        "p90": 12.679,
+        "max": 19.386
+      },
+      "twisting_deg": {
+        "mean": 16.461,
+        "p90": 29.618,
+        "max": 41.232
+      }
+    },
+    "wrist_joint_angles": {
+      "flexion_deg": {
+        "mean": 14.063,
+        "p90": 23.956,
+        "max": 54.362
+      },
+      "twisting_deg": {
+        "mean": 22.767,
+        "p90": 35.539,
+        "max": 46.329
+      }
+    }
+  },
+  "duration_summary": {
+    "scope": "shared trunk/arm/leg angle signals",
+    "total_duration_sec": 55.4,
+    "total_static_duration_sec": 5.13,
+    "static_posture_ratio_percent": 9.26,
+    "static_event_frequency_per_min": 1.08,
+    "mean_holding_time_sec": 5.13
+  },
+  "repetition_summary": {
+    "method": "REP++ on normalized major-body-joint coordinates",
+    "total_repetitions": 8,
+    "total_repetitions_from_peaks": 8,
+    "mean_period_sec": 6.39,
+    "repetition_rate_cycle_per_min": 9.389,
+    "frequency_band": "frequent",
+    "quality_flag": "poor",
+    "interpretation_note": "Use as configuration-sensitive temporal evidence; quality_flag=poor indicates that the repetition estimate should be interpreted cautiously."
+  }
+}

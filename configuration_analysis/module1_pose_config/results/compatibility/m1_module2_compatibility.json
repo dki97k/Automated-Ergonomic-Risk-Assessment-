@@ -1,0 +1,267 @@
+{
+  "alphapose_motionbert": {
+    "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/alphapose_motionbert/field_plausibility_alphapose_motionbert_allframes_temporal_bbox.npz",
+    "keys": [
+      {
+        "name": "sample_ids",
+        "shape": [
+          40491
+        ],
+        "dtype": "object"
+      },
+      {
+        "name": "pred_common14",
+        "shape": [
+          40491,
+          14,
+          3
+        ],
+        "dtype": "float32"
+      }
+    ]
+  },
+  "sam3db": [
+    {
+      "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/sam3db_mhr70_by_sequence/MansoryBrickLaying_00_sam3db_mhr70_keypoints3d.npz",
+      "keys": [
+        {
+          "name": "sequence",
+          "shape": [
+            1
+          ],
+          "dtype": "<U21"
+        },
+        {
+          "name": "frame_index",
+          "shape": [
+            1662
+          ],
+          "dtype": "int32"
+        },
+        {
+          "name": "keypoints3d_mhr70_m",
+          "shape": [
+            1662,
+            70,
+            3
+          ],
+          "dtype": "float32"
+        }
+      ]
+    },
+    {
+      "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/sam3db_mhr70_by_sequence/MansoryBrickLaying_01_sam3db_mhr70_keypoints3d.npz",
+      "keys": [
+        {
+          "name": "sequence",
+          "shape": [
+            1
+          ],
+          "dtype": "<U21"
+        },
+        {
+          "name": "frame_index",
+          "shape": [
+            3832
+          ],
+          "dtype": "int32"
+        },
+        {
+          "name": "keypoints3d_mhr70_m",
+          "shape": [
+            3832,
+            70,
+            3
+          ],
+          "dtype": "float32"
+        }
+      ]
+    },
+    {
+      "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/sam3db_mhr70_by_sequence/MansoryBrickLaying_02_sam3db_mhr70_keypoints3d.npz",
+      "keys": [
+        {
+          "name": "sequence",
+          "shape": [
+            1
+          ],
+          "dtype": "<U21"
+        },
+        {
+          "name": "frame_index",
+          "shape": [
+            7357
+          ],
+          "dtype": "int32"
+        },
+        {
+          "name": "keypoints3d_mhr70_m",
+          "shape": [
+            7357,
+            70,
+            3
+          ],
+          "dtype": "float32"
+        }
+      ]
+    },
+    {
+      "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/sam3db_mhr70_by_sequence/MansoryCement_02_sam3db_mhr70_keypoints3d.npz",
+      "keys": [
+        {
+          "name": "sequence",
+          "shape": [
+            1
+          ],
+          "dtype": "<U16"
+        },
+        {
+          "name": "frame_index",
+          "shape": [
+            5117
+          ],
+          "dtype": "int32"
+        },
+        {
+          "name": "keypoints3d_mhr70_m",
+          "shape": [
+            5117,
+            70,
+            3
+          ],
+          "dtype": "float32"
+        }
+      ]
+    },
+    {
+      "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/sam3db_mhr70_by_sequence/RebarPlacement_00_sam3db_mhr70_keypoints3d.npz",
+      "keys": [
+        {
+          "name": "sequence",
+          "shape": [
+            1
+          ],
+          "dtype": "<U17"
+        },
+        {
+          "name": "frame_index",
+          "shape": [
+            8512
+          ],
+          "dtype": "int32"
+        },
+        {
+          "name": "keypoints3d_mhr70_m",
+          "shape": [
+            8512,
+            70,
+            3
+          ],
+          "dtype": "float32"
+        }
+      ]
+    },
+    {
+      "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/sam3db_mhr70_by_sequence/RebarTying_01_sam3db_mhr70_keypoints3d.npz",
+      "keys": [
+        {
+          "name": "sequence",
+          "shape": [
+            1
+          ],
+          "dtype": "<U13"
+        },
+        {
+          "name": "frame_index",
+          "shape": [
+            1702
+          ],
+          "dtype": "int32"
+        },
+        {
+          "name": "keypoints3d_mhr70_m",
+          "shape": [
+            1702,
+            70,
+            3
+          ],
+          "dtype": "float32"
+        }
+      ]
+    },
+    {
+      "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/sam3db_mhr70_by_sequence/RebarTying_02_sam3db_mhr70_keypoints3d.npz",
+      "keys": [
+        {
+          "name": "sequence",
+          "shape": [
+            1
+          ],
+          "dtype": "<U13"
+        },
+        {
+          "name": "frame_index",
+          "shape": [
+            1918
+          ],
+          "dtype": "int32"
+        },
+        {
+          "name": "keypoints3d_mhr70_m",
+          "shape": [
+            1918,
+            70,
+            3
+          ],
+          "dtype": "float32"
+        }
+      ]
+    },
+    {
+      "path": "<private_workspace>/configuration_analysis/m1/inputs/m1_pose/sam3db_mhr70_by_sequence/WallPlacement_00_sam3db_mhr70_keypoints3d.npz",
+      "keys": [
+        {
+          "name": "sequence",
+          "shape": [
+            1
+          ],
+          "dtype": "<U16"
+        },
+        {
+          "name": "frame_index",
+          "shape": [
+            10507
+          ],
+          "dtype": "int32"
+        },
+        {
+          "name": "keypoints3d_mhr70_m",
+          "shape": [
+            10507,
+            70,
+            3
+          ],
+          "dtype": "float32"
+        }
+      ]
+    }
+  ],
+  "manifest_exists": true,
+  "module2_runner_exists": true,
+  "module2_run_script_exists": true,
+  "module2_angle_script_exists": true,
+  "compatibility": {
+    "sam3db": "compatible with Module 2 raw angle extraction shape expectation (70 keypoints)",
+    "alphapose_motionbert": "requires adapter because available output is pred_common14"
+  },
+  "manifest_sequence_counts": {
+    "MansoryBrickLaying_00": 1662,
+    "MansoryBrickLaying_01": 3828,
+    "MansoryBrickLaying_02": 7257,
+    "MansoryCement_02": 5112,
+    "RebarPlacement_00": 8508,
+    "RebarTying_01": 1699,
+    "RebarTying_02": 1918,
+    "WallPlacement_00": 10507
+  }
+}

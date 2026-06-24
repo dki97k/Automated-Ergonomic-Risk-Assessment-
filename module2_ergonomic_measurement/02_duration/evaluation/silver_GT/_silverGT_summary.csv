@@ -1,0 +1,9 @@
+﻿clip,n_frames,n_intervals,wb_static_sec,wb_static_ratio_pct
+MansoryBrickLaying_00,1662,4,8.8,15.9
+MansoryBrickLaying_01,3832,11,28.7,22.5
+MansoryBrickLaying_02,7257,13,43.6,18.0
+MansoryCement_02,5111,18,88.7,52.0
+RebarPlacement_00,8511,11,97.6,34.4
+RebarTying_00,1699,2,49.9,88.2
+RebarTying_01,1918,1,63.9,100.0
+WallPlacement_00,10508,18,223.0,63.7

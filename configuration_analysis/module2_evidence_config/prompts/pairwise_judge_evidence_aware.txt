@@ -1,0 +1,130 @@
+You are performing a strict pairwise comparison between two natural-language ergonomic risk reports.
+
+The reports were generated under different evidence configurations for the same anonymized case. The available evidence may differ between reports, so your task is not to reward the report with more information automatically. Instead, judge how well each report uses the evidence available to it and how useful the resulting report is for decision support.
+
+========================
+PREFERENCE SCALE
+========================
+
+Use this scale for each criterion:
+
++2: Report A is clearly and substantially better than Report B
++1: Report A is slightly better than Report B
+ 0: No meaningful difference
+-1: Report B is slightly better than Report A
+-2: Report B is clearly and substantially better than Report A
+
+For preferred_report, use exactly one of:
+- A
+- B
+- Tie
+
+If preference_strength is 0, preferred_report must be "Tie".
+
+========================
+EVALUATION CRITERIA
+========================
+
+1. Clarity
+- Is the ergonomic risk interpretation clear and understandable?
+- Is the language precise and unambiguous?
+
+2. Coherence
+- Are risk interpretation, key contributing factors, and recommendations logically connected?
+- Does the report flow from evidence to risk factors to recommendations?
+
+3. Relevance
+- Are the key contributing factors relevant to ergonomic risk?
+- Does the report focus on important factors rather than marginal or generic points?
+
+4. Usefulness
+- Does the report provide useful decision-support information?
+- Are the recommendations actionable at the level supported by the available evidence?
+
+5. Professionalism
+- Is the tone professional and technically appropriate?
+- Is the report concise and well structured?
+
+6. Evidence Grounding
+- Are claims and recommendations faithful to the evidence available in that report's input?
+- Does the report avoid inventing unobserved duration, repetition, task context, tools, materials, work schedule, rest breaks, training, or workplace layout?
+- Does it avoid treating missing evidence as low risk?
+- Does it clearly acknowledge when a risk dimension is not assessable from the available evidence?
+
+7. Overall
+- Considering all criteria, which report is better as an evidence-grounded ergonomic decision-support report?
+- Overall preference should consider both report quality and evidence fidelity.
+
+========================
+IMPORTANT CONSTRAINTS
+========================
+
+- Do not assume access to raw ergonomic data beyond the report text and the listed evidence configuration.
+- Do not reward verbosity alone.
+- Do not penalize a report for acknowledging insufficient evidence when the evidence configuration is limited.
+- Penalize unsupported specificity: a report should not invent concrete worksite actions that are not justified by its available evidence.
+- Use ±2 only when superiority is obvious.
+
+========================
+OUTPUT FORMAT
+========================
+
+Return only valid JSON using exactly this schema:
+
+{
+  "clarity": {
+    "preferred_report": "A | B | Tie",
+    "preference_strength": "integer from -2 to +2",
+    "justification": "1-2 concise sentences"
+  },
+  "coherence": {
+    "preferred_report": "A | B | Tie",
+    "preference_strength": "integer from -2 to +2",
+    "justification": "1-2 concise sentences"
+  },
+  "relevance": {
+    "preferred_report": "A | B | Tie",
+    "preference_strength": "integer from -2 to +2",
+    "justification": "1-2 concise sentences"
+  },
+  "usefulness": {
+    "preferred_report": "A | B | Tie",
+    "preference_strength": "integer from -2 to +2",
+    "justification": "1-2 concise sentences"
+  },
+  "professionalism": {
+    "preferred_report": "A | B | Tie",
+    "preference_strength": "integer from -2 to +2",
+    "justification": "1-2 concise sentences"
+  },
+  "evidence_grounding": {
+    "preferred_report": "A | B | Tie",
+    "preference_strength": "integer from -2 to +2",
+    "justification": "1-2 concise sentences"
+  },
+  "overall": {
+    "preferred_report": "A | B | Tie",
+    "preference_strength": "integer from -2 to +2",
+    "justification": "1-2 concise sentences"
+  }
+}
+
+========================
+REPORT A
+========================
+
+Evidence configuration for Report A:
+{REPORT_A_CONDITION}
+
+Report A:
+{REPORT_A_TEXT}
+
+========================
+REPORT B
+========================
+
+Evidence configuration for Report B:
+{REPORT_B_CONDITION}
+
+Report B:
+{REPORT_B_TEXT}

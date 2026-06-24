@@ -1,0 +1,48 @@
+# OS metadata
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+.env
+
+# Raw/private data and heavyweight artifacts
+data/
+raw/
+videos/
+frames/
+images/
+checkpoints/
+outputs/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+*.pickle
+
+# Generated local reports
+generated_reports/
+generated_reports_p19_aligned/
+pairwise_judge/prompts_*/
+
+# Office/editor temporaries
+~$*
+*.numbers

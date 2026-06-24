@@ -1,0 +1,9 @@
+clip,alpha_repetitions_total_peaks,sam_repetitions_total_peaks,peak_count_diff_sam_minus_alpha,alpha_mean_period_sec,sam_mean_period_sec,abs_mean_period_diff_sec,alpha_rpm_band,sam_rpm_band,rpm_band_changed,alpha_quality_flag,sam_quality_flag
+MansoryBrickLaying_00,7,8,1,6.788888888888888,6.39047619047619,0.3984126984126979,frequent,frequent,False,poor,poor
+MansoryBrickLaying_01,14,8,-6,8.65128205128205,13.233333333333334,4.5820512820512835,frequent,moderate,True,poor,poor
+MansoryBrickLaying_02,18,17,-1,11.382352941176473,13.779166666666663,2.3968137254901904,frequent,moderate,True,poor,poor
+MansoryCement_02,14,11,-3,11.738461538461536,11.63,0.10846153846153506,frequent,frequent,False,poor,poor
+RebarPlacement_00,12,15,3,17.59393939393939,17.45714285714286,0.13679653679653114,moderate,moderate,False,poor,poor
+RebarTying_01,7,7,0,6.855555555555555,3.1999999999999993,3.655555555555556,frequent,very frequent,True,poor,poor
+RebarTying_02,8,6,-2,4.461904761904761,5.720000000000001,1.2580952380952395,very frequent,very frequent,False,poor,poor
+WallPlacement_00,17,16,-1,19.297916666666666,20.25777777777778,0.9598611111111133,moderate,moderate,False,poor,poor

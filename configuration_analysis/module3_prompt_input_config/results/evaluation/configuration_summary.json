@@ -1,0 +1,74 @@
+[
+  {
+    "condition": "module2_only__neutral",
+    "input_condition": "module2_only",
+    "prompt_condition": "neutral",
+    "natural_report_count": 40,
+    "within_key_factor_jaccard_mean": 0.7375,
+    "within_recommendation_jaccard_mean": 0.5848,
+    "labeled_claims": 417,
+    "supported_claim_rate": 0.7578,
+    "unsupported_claim_rate": 0.2422,
+    "contradiction_rate": 0.0
+  },
+  {
+    "condition": "module2_only__original_rgb_compatible",
+    "input_condition": "module2_only",
+    "prompt_condition": "original_rgb_compatible",
+    "natural_report_count": 40,
+    "within_key_factor_jaccard_mean": 0.8206,
+    "within_recommendation_jaccard_mean": 0.7381,
+    "labeled_claims": 318,
+    "supported_claim_rate": 0.6667,
+    "unsupported_claim_rate": 0.3176,
+    "contradiction_rate": 0.0157
+  },
+  {
+    "condition": "module2_only__bounded_context_augmented",
+    "input_condition": "module2_only",
+    "prompt_condition": "bounded_context_augmented",
+    "natural_report_count": 40,
+    "within_key_factor_jaccard_mean": 0.8375,
+    "within_recommendation_jaccard_mean": 0.6329,
+    "labeled_claims": 314,
+    "supported_claim_rate": 0.5478,
+    "unsupported_claim_rate": 0.4522,
+    "contradiction_rate": 0.0
+  },
+  {
+    "condition": "module2_rgb__neutral",
+    "input_condition": "module2_rgb",
+    "prompt_condition": "neutral",
+    "natural_report_count": 40,
+    "within_key_factor_jaccard_mean": 0.5615,
+    "within_recommendation_jaccard_mean": 0.6369,
+    "labeled_claims": 362,
+    "supported_claim_rate": 0.7155,
+    "unsupported_claim_rate": 0.2845,
+    "contradiction_rate": 0.0
+  },
+  {
+    "condition": "module2_rgb__original_rgb_compatible",
+    "input_condition": "module2_rgb",
+    "prompt_condition": "original_rgb_compatible",
+    "natural_report_count": 40,
+    "within_key_factor_jaccard_mean": 0.815,
+    "within_recommendation_jaccard_mean": 0.7152,
+    "labeled_claims": 347,
+    "supported_claim_rate": 0.8674,
+    "unsupported_claim_rate": 0.1009,
+    "contradiction_rate": 0.0317
+  },
+  {
+    "condition": "module2_rgb__bounded_context_augmented",
+    "input_condition": "module2_rgb",
+    "prompt_condition": "bounded_context_augmented",
+    "natural_report_count": 40,
+    "within_key_factor_jaccard_mean": 0.7967,
+    "within_recommendation_jaccard_mean": 0.504,
+    "labeled_claims": 359,
+    "supported_claim_rate": 0.922,
+    "unsupported_claim_rate": 0.078,
+    "contradiction_rate": 0.0
+  }
+]

@@ -1,0 +1,5 @@
+﻿interval_id,start_frame,end_frame,start_sec,end_sec,dur_s,look_at_frame,neck_flex,trunk_flex,trunk_bend,trunk_twist,knee_L,knee_R,uparm_L,uparm_R,lowarm_L,lowarm_R,wrist_L,wrist_R,verified
+1,181,223,6.0,7.4,1.4,202,0,1,1,1,0,0,0,0,0,0,0,0,NO
+2,386,432,12.9,14.4,1.6,409,1,1,1,0,0,0,0,0,0,0,1,1,NO
+3,745,815,24.8,27.2,2.4,780,0,0,1,1,1,0,0,0,0,0,0,1,NO
+4,988,1052,32.9,35.1,2.2,1020,1,1,1,1,1,0,0,0,0,0,0,1,NO

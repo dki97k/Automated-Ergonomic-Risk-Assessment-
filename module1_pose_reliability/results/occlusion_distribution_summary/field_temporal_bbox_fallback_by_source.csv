@@ -1,0 +1,3 @@
+manual_source,yolo_failure_frames,recovered_with_fallback,recovery_rate_percent
+object,3,3,100.0
+self,10,10,100.0

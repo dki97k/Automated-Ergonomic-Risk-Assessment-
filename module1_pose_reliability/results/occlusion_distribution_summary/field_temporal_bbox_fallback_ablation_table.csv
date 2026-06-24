@@ -1,0 +1,3 @@
+condition,n_frames,detected_or_recovered,failed,recovery_rate_percent
+YOLO-only,13,0,13,0.0
+YOLO + temporal bbox fallback,13,13,0,100.0

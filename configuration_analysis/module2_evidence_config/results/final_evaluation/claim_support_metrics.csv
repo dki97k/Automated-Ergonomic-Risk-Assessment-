@@ -1,0 +1,5 @@
+group_type,group,labeled_claims,supported_claim_rate,unsupported_claim_rate,contradiction_rate
+overall,overall,1118,0.6959,0.3041,0.0
+condition,rgb_only,331,0.6465,0.3535,0.0
+condition,reba_only,366,0.6257,0.3743,0.0
+condition,full_module2,421,0.7957,0.2043,0.0

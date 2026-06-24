@@ -1,0 +1,9 @@
+[project]
+name = "msd-module1"
+version = "0.1.0"
+description = "Module 1 public-data evaluation and occlusion analysis for MSD revision."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

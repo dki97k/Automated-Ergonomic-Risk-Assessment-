@@ -1,0 +1,4 @@
+condition,criterion,n_comparisons,win_rate,loss_rate,tie_rate,mean_signed_preference_strength,std_signed_preference_strength
+full_module2,overall,80,1.0,0.0,0.0,1.2375,0.4282
+reba_only,overall,80,0.5,0.5,0.0,-0.025,1.0431
+rgb_only,overall,80,0.0,1.0,0.0,-1.2125,0.4117

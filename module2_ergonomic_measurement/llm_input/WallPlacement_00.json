@@ -1,0 +1,115 @@
+{
+  "sample_id": "WallPlacement_00",
+  "meta": {
+    "fps": 30,
+    "total_frames": 10507,
+    "total_duration_sec": 350.233
+  },
+  "posture_summary": {
+    "final_reba": {
+      "mean": 5.692,
+      "p90": 9.0,
+      "max": 10.0,
+      "risk_bin_distribution": {
+        "low": 0.312,
+        "medium": 0.305,
+        "high": 0.383
+      },
+      "longest_high_risk_run_frames": 668,
+      "longest_high_risk_run_sec": 22.267
+    },
+    "body_part_reba": {
+      "neck": {
+        "mean": 1.665,
+        "p90": 3.0,
+        "max": 3.0
+      },
+      "trunk": {
+        "mean": 2.563,
+        "p90": 3.0,
+        "max": 5.0
+      },
+      "leg": {
+        "mean": 2.661,
+        "p90": 4.0,
+        "max": 4.0
+      },
+      "upper_arm": {
+        "mean": 2.413,
+        "p90": 3.0,
+        "max": 5.0
+      },
+      "lower_arm": {
+        "mean": 1.733,
+        "p90": 2.0,
+        "max": 2.0
+      },
+      "wrist": {
+        "mean": 2.016,
+        "p90": 3.0,
+        "max": 3.0
+      }
+    }
+  },
+  "joint_angle_summary": {
+    "trunk_flexion_deg": {
+      "mean": 28.877,
+      "p90": 53.744,
+      "max": 91.761
+    },
+    "neck_flexion_deg": {
+      "mean": 14.238,
+      "p90": 24.308,
+      "max": 43.061
+    },
+    "neck_bending_deg": {
+      "mean": 8.715,
+      "p90": 19.254,
+      "max": 29.873
+    },
+    "neck_twisting_deg": {
+      "mean": 16.303,
+      "p90": 29.003,
+      "max": 76.206
+    },
+    "upper_arm_flexion_deg": {
+      "mean": 42.545,
+      "p90": 66.487,
+      "max": 139.879
+    },
+    "upper_arm_abduction_deg": {
+      "mean": 31.455,
+      "p90": 37.181,
+      "max": 185.488
+    },
+    "wrist_flexion_deg": {
+      "mean": 30.008,
+      "p90": 48.711,
+      "max": 95.273
+    },
+    "wrist_twisting_deg": {
+      "mean": 30.311,
+      "p90": 46.169,
+      "max": 99.139
+    },
+    "knee_flexion_deg": {
+      "mean": 88.237,
+      "p90": 160.152,
+      "max": 163.408
+    }
+  },
+  "duration_summary": {
+    "static_posture_ratio": 0.66,
+    "total_static_duration_sec": 231.05,
+    "max_static_segment_sec": 40.03,
+    "static_event_count": 16,
+    "max_moderate_or_high_risk_exposure_sec": 40.03,
+    "max_high_risk_exposure_sec": 40.03
+  },
+  "repetition_summary": {
+    "total_repetitions": 29,
+    "repetition_rate_cycle_per_min": 4.938,
+    "mean_period_sec": 12.15,
+    "std_period_sec": 6.54
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "sample_id": "RebarTying_00",
+  "meta": {
+    "fps": 30,
+    "total_frames": 1699,
+    "total_duration_sec": 56.633
+  },
+  "posture_summary": {
+    "final_reba": {
+      "mean": 7.552,
+      "p90": 10.0,
+      "max": 10.0,
+      "risk_bin_distribution": {
+        "low": 0.008,
+        "medium": 0.533,
+        "high": 0.46
+      },
+      "longest_high_risk_run_frames": 198,
+      "longest_high_risk_run_sec": 6.6
+    },
+    "body_part_reba": {
+      "neck": {
+        "mean": 1.906,
+        "p90": 2.0,
+        "max": 3.0
+      },
+      "trunk": {
+        "mean": 3.109,
+        "p90": 4.0,
+        "max": 4.0
+      },
+      "leg": {
+        "mean": 3.695,
+        "p90": 4.0,
+        "max": 4.0
+      },
+      "upper_arm": {
+        "mean": 2.923,
+        "p90": 5.0,
+        "max": 5.0
+      },
+      "lower_arm": {
+        "mean": 1.521,
+        "p90": 2.0,
+        "max": 2.0
+      },
+      "wrist": {
+        "mean": 1.732,
+        "p90": 2.0,
+        "max": 3.0
+      }
+    }
+  },
+  "joint_angle_summary": {
+    "trunk_flexion_deg": {
+      "mean": 31.707,
+      "p90": 37.455,
+      "max": 46.519
+    },
+    "neck_flexion_deg": {
+      "mean": 27.01,
+      "p90": 34.289,
+      "max": 42.759
+    },
+    "neck_bending_deg": {
+      "mean": 4.319,
+      "p90": 9.256,
+      "max": 13.765
+    },
+    "neck_twisting_deg": {
+      "mean": 9.53,
+      "p90": 13.879,
+      "max": 52.258
+    },
+    "upper_arm_flexion_deg": {
+      "mean": 51.649,
+      "p90": 114.554,
+      "max": 132.357
+    },
+    "upper_arm_abduction_deg": {
+      "mean": 64.584,
+      "p90": 150.366,
+      "max": 170.905
+    },
+    "wrist_flexion_deg": {
+      "mean": 26.238,
+      "p90": 46.092,
+      "max": 75.617
+    },
+    "wrist_twisting_deg": {
+      "mean": 27.705,
+      "p90": 36.239,
+      "max": 62.881
+    },
+    "knee_flexion_deg": {
+      "mean": 151.665,
+      "p90": 158.34,
+      "max": 161.751
+    }
+  },
+  "duration_summary": {
+    "static_posture_ratio": 0.935,
+    "total_static_duration_sec": 52.97,
+    "max_static_segment_sec": 44.4,
+    "static_event_count": 2,
+    "max_moderate_or_high_risk_exposure_sec": 44.4,
+    "max_high_risk_exposure_sec": 44.4
+  },
+  "repetition_summary": {
+    "total_repetitions": 7,
+    "repetition_rate_cycle_per_min": 9.077,
+    "mean_period_sec": 6.61,
+    "std_period_sec": 1.72
+  }
+}

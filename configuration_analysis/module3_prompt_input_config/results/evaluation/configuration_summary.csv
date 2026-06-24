@@ -1,0 +1,7 @@
+condition,input_condition,prompt_condition,natural_report_count,within_key_factor_jaccard_mean,within_recommendation_jaccard_mean,labeled_claims,supported_claim_rate,unsupported_claim_rate,contradiction_rate
+module2_only__neutral,module2_only,neutral,40,0.7375,0.5848,417,0.7578,0.2422,0.0
+module2_only__original_rgb_compatible,module2_only,original_rgb_compatible,40,0.8206,0.7381,318,0.6667,0.3176,0.0157
+module2_only__bounded_context_augmented,module2_only,bounded_context_augmented,40,0.8375,0.6329,314,0.5478,0.4522,0.0
+module2_rgb__neutral,module2_rgb,neutral,40,0.5615,0.6369,362,0.7155,0.2845,0.0
+module2_rgb__original_rgb_compatible,module2_rgb,original_rgb_compatible,40,0.815,0.7152,347,0.8674,0.1009,0.0317
+module2_rgb__bounded_context_augmented,module2_rgb,bounded_context_augmented,40,0.7967,0.504,359,0.922,0.078,0.0

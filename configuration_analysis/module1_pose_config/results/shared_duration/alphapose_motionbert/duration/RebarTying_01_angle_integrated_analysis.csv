@@ -1,0 +1,21 @@
+﻿Category,Part,start_frame,end_frame,duration_sec
+Total,Whole Body,66,234,5.63
+Total,Whole Body,374,933,18.67
+Total,Whole Body,1010,1277,8.93
+Total,Whole Body,1282,1698,13.9
+Part,Trunk,495,687,6.43
+Part,Trunk,710,908,6.63
+Part,Trunk,1010,1277,8.93
+Part,Trunk,1343,1698,11.87
+Part,Legs,104,234,4.37
+Part,Legs,374,510,4.57
+Part,Legs,532,683,5.07
+Part,Legs,711,932,7.4
+Part,Legs,1425,1698,9.13
+Part,Arms (L),91,234,4.8
+Part,Arms (L),537,669,4.43
+Part,Arms (L),1282,1478,6.57
+Part,Arms (L),1513,1698,6.2
+Part,Arms (R),66,234,5.63
+Part,Arms (R),683,933,8.37
+Part,Arms (R),1420,1698,9.3

@@ -1,0 +1,6 @@
+﻿rep_id,start_frame,end_frame,start_sec,end_sec,dur_s,look_at_frame,source_joint,verified
+1,192,534,6.4,17.8,11.4,363,upperarm.left_flexion,NO
+2,534,913,17.8,30.4,12.63,723,upperarm.left_flexion,NO
+3,913,1142,30.4,38.1,7.63,1027,upperarm.left_flexion,NO
+4,1142,1265,38.1,42.2,4.1,1203,upperarm.left_flexion,NO
+5,1265,1598,42.2,53.3,11.1,1431,upperarm.left_flexion,NO

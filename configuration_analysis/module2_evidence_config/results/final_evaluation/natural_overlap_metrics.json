@@ -1,0 +1,34 @@
+{
+  "by_condition": {
+    "rgb_only": {
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.801,
+      "within_recommendation_jaccard_mean": 0.6165
+    },
+    "reba_only": {
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.6975,
+      "within_recommendation_jaccard_mean": 0.6167
+    },
+    "full_module2": {
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.6833,
+      "within_recommendation_jaccard_mean": 0.5692
+    }
+  },
+  "vs_full": {
+    "reba_only_vs_full_module2": {
+      "pair_count": 200,
+      "key_factor_jaccard_vs_full_mean": 0.6332,
+      "recommendation_jaccard_vs_full_mean": 0.2768
+    },
+    "rgb_only_vs_full_module2": {
+      "pair_count": 200,
+      "key_factor_jaccard_vs_full_mean": 0.5573,
+      "recommendation_jaccard_vs_full_mean": 0.2567
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "unlabeled_claims": 0,
+  "overall": {
+    "labeled_claims": 2117,
+    "supported_claim_rate": 0.7515,
+    "unsupported_claim_rate": 0.2409,
+    "contradiction_rate": 0.0076
+  },
+  "by_condition": {
+    "module2_only__bounded_context_augmented": {
+      "labeled_claims": 314,
+      "supported_claim_rate": 0.5478,
+      "unsupported_claim_rate": 0.4522,
+      "contradiction_rate": 0.0
+    },
+    "module2_only__neutral": {
+      "labeled_claims": 417,
+      "supported_claim_rate": 0.7578,
+      "unsupported_claim_rate": 0.2422,
+      "contradiction_rate": 0.0
+    },
+    "module2_only__original_rgb_compatible": {
+      "labeled_claims": 318,
+      "supported_claim_rate": 0.6667,
+      "unsupported_claim_rate": 0.3176,
+      "contradiction_rate": 0.0157
+    },
+    "module2_rgb__bounded_context_augmented": {
+      "labeled_claims": 359,
+      "supported_claim_rate": 0.922,
+      "unsupported_claim_rate": 0.078,
+      "contradiction_rate": 0.0
+    },
+    "module2_rgb__neutral": {
+      "labeled_claims": 362,
+      "supported_claim_rate": 0.7155,
+      "unsupported_claim_rate": 0.2845,
+      "contradiction_rate": 0.0
+    },
+    "module2_rgb__original_rgb_compatible": {
+      "labeled_claims": 347,
+      "supported_claim_rate": 0.8674,
+      "unsupported_claim_rate": 0.1009,
+      "contradiction_rate": 0.0317
+    }
+  },
+  "by_input_condition": {
+    "module2_only": {
+      "labeled_claims": 1049,
+      "supported_claim_rate": 0.6673,
+      "unsupported_claim_rate": 0.3279,
+      "contradiction_rate": 0.0048
+    },
+    "module2_rgb": {
+      "labeled_claims": 1068,
+      "supported_claim_rate": 0.8343,
+      "unsupported_claim_rate": 0.1554,
+      "contradiction_rate": 0.0103
+    }
+  },
+  "by_prompt_condition": {
+    "bounded_context_augmented": {
+      "labeled_claims": 673,
+      "supported_claim_rate": 0.7474,
+      "unsupported_claim_rate": 0.2526,
+      "contradiction_rate": 0.0
+    },
+    "neutral": {
+      "labeled_claims": 779,
+      "supported_claim_rate": 0.7381,
+      "unsupported_claim_rate": 0.2619,
+      "contradiction_rate": 0.0
+    },
+    "original_rgb_compatible": {
+      "labeled_claims": 665,
+      "supported_claim_rate": 0.7714,
+      "unsupported_claim_rate": 0.2045,
+      "contradiction_rate": 0.0241
+    }
+  }
+}

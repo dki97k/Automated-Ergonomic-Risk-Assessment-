@@ -1,0 +1,247 @@
+{
+  "analysis": "module3_structured_configuration",
+  "reports_root": "<private_workspace>/configuration_analysis/m3_config/results/generated_reports_final/structured",
+  "key_gt_csv": "<private_workspace>/m3/results_structured_key.csv",
+  "metrics_by_input_condition": [
+    {
+      "input_condition": "module2_only",
+      "report_file_count": 40,
+      "valid_key_factor_rows": 280,
+      "invalid_entries": [],
+      "risk_summary_consistency": {
+        "fleiss_kappa_overall": 1.0,
+        "fleiss_kappa_by_risk_item": {
+          "posture_risk": 1.0,
+          "duration_risk": 1.0,
+          "repetition_risk": null
+        }
+      },
+      "key_factor_classification": {
+        "overall": {
+          "tp": 176,
+          "fp": 15,
+          "tn": 20,
+          "fn": 69,
+          "n": 280,
+          "accuracy": 0.7,
+          "precision": 0.9215,
+          "recall": 0.7184,
+          "f1": 0.8073
+        },
+        "by_factor": {
+          "trunk_overflexion": {
+            "tp": 25,
+            "fp": 0,
+            "tn": 0,
+            "fn": 15,
+            "n": 40,
+            "accuracy": 0.625,
+            "precision": 1.0,
+            "recall": 0.625,
+            "f1": 0.7692
+          },
+          "neck_overflexion_or_extension": {
+            "tp": 25,
+            "fp": 0,
+            "tn": 0,
+            "fn": 15,
+            "n": 40,
+            "accuracy": 0.625,
+            "precision": 1.0,
+            "recall": 0.625,
+            "f1": 0.7692
+          },
+          "upper_arm_elevation": {
+            "tp": 15,
+            "fp": 10,
+            "tn": 10,
+            "fn": 5,
+            "n": 40,
+            "accuracy": 0.625,
+            "precision": 0.6,
+            "recall": 0.75,
+            "f1": 0.6667
+          },
+          "wrist_deviation": {
+            "tp": 25,
+            "fp": 0,
+            "tn": 0,
+            "fn": 15,
+            "n": 40,
+            "accuracy": 0.625,
+            "precision": 1.0,
+            "recall": 0.625,
+            "f1": 0.7692
+          },
+          "knee_overflexion": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 0,
+            "fn": 14,
+            "n": 40,
+            "accuracy": 0.65,
+            "precision": 1.0,
+            "recall": 0.65,
+            "f1": 0.7879
+          },
+          "prolonged_static_posture": {
+            "tp": 20,
+            "fp": 5,
+            "tn": 10,
+            "fn": 5,
+            "n": 40,
+            "accuracy": 0.75,
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8
+          },
+          "repetitive_work": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0,
+            "n": 40,
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          }
+        }
+      }
+    },
+    {
+      "input_condition": "module2_rgb",
+      "report_file_count": 40,
+      "valid_key_factor_rows": 280,
+      "invalid_entries": [],
+      "risk_summary_consistency": {
+        "fleiss_kappa_overall": 0.959,
+        "fleiss_kappa_by_risk_item": {
+          "posture_risk": 1.0,
+          "duration_risk": 1.0,
+          "repetition_risk": 0.7222
+        }
+      },
+      "key_factor_classification": {
+        "overall": {
+          "tp": 178,
+          "fp": 15,
+          "tn": 20,
+          "fn": 67,
+          "n": 280,
+          "accuracy": 0.7071,
+          "precision": 0.9223,
+          "recall": 0.7265,
+          "f1": 0.8128
+        },
+        "by_factor": {
+          "trunk_overflexion": {
+            "tp": 25,
+            "fp": 0,
+            "tn": 0,
+            "fn": 15,
+            "n": 40,
+            "accuracy": 0.625,
+            "precision": 1.0,
+            "recall": 0.625,
+            "f1": 0.7692
+          },
+          "neck_overflexion_or_extension": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 0,
+            "fn": 11,
+            "n": 40,
+            "accuracy": 0.725,
+            "precision": 1.0,
+            "recall": 0.725,
+            "f1": 0.8406
+          },
+          "upper_arm_elevation": {
+            "tp": 19,
+            "fp": 10,
+            "tn": 10,
+            "fn": 1,
+            "n": 40,
+            "accuracy": 0.725,
+            "precision": 0.6552,
+            "recall": 0.95,
+            "f1": 0.7755
+          },
+          "wrist_deviation": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 0,
+            "fn": 11,
+            "n": 40,
+            "accuracy": 0.725,
+            "precision": 1.0,
+            "recall": 0.725,
+            "f1": 0.8406
+          },
+          "knee_overflexion": {
+            "tp": 20,
+            "fp": 0,
+            "tn": 0,
+            "fn": 20,
+            "n": 40,
+            "accuracy": 0.5,
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1": 0.6667
+          },
+          "prolonged_static_posture": {
+            "tp": 20,
+            "fp": 5,
+            "tn": 10,
+            "fn": 5,
+            "n": 40,
+            "accuracy": 0.75,
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1": 0.8
+          },
+          "repetitive_work": {
+            "tp": 36,
+            "fp": 0,
+            "tn": 0,
+            "fn": 4,
+            "n": 40,
+            "accuracy": 0.9,
+            "precision": 1.0,
+            "recall": 0.9,
+            "f1": 0.9474
+          }
+        }
+      }
+    }
+  ],
+  "summary_table": [
+    {
+      "input_condition": "module2_only",
+      "report_file_count": 40,
+      "risk_summary_fleiss_kappa": 1.0,
+      "posture_risk_fleiss_kappa": 1.0,
+      "duration_risk_fleiss_kappa": 1.0,
+      "repetition_risk_fleiss_kappa": null,
+      "key_factor_accuracy": 0.7,
+      "key_factor_precision": 0.9215,
+      "key_factor_recall": 0.7184,
+      "key_factor_f1": 0.8073,
+      "key_factor_n": 280
+    },
+    {
+      "input_condition": "module2_rgb",
+      "report_file_count": 40,
+      "risk_summary_fleiss_kappa": 0.959,
+      "posture_risk_fleiss_kappa": 1.0,
+      "duration_risk_fleiss_kappa": 1.0,
+      "repetition_risk_fleiss_kappa": 0.7222,
+      "key_factor_accuracy": 0.7071,
+      "key_factor_precision": 0.9223,
+      "key_factor_recall": 0.7265,
+      "key_factor_f1": 0.8128,
+      "key_factor_n": 280
+    }
+  ]
+}

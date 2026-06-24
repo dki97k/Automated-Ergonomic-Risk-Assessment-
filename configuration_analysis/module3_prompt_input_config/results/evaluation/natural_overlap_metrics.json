@@ -1,0 +1,108 @@
+{
+  "by_condition": {
+    "module2_only__neutral": {
+      "input_condition": "module2_only",
+      "prompt_condition": "neutral",
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.7375,
+      "within_recommendation_jaccard_mean": 0.5848
+    },
+    "module2_only__original_rgb_compatible": {
+      "input_condition": "module2_only",
+      "prompt_condition": "original_rgb_compatible",
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.8206,
+      "within_recommendation_jaccard_mean": 0.7381
+    },
+    "module2_only__bounded_context_augmented": {
+      "input_condition": "module2_only",
+      "prompt_condition": "bounded_context_augmented",
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.8375,
+      "within_recommendation_jaccard_mean": 0.6329
+    },
+    "module2_rgb__neutral": {
+      "input_condition": "module2_rgb",
+      "prompt_condition": "neutral",
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.5615,
+      "within_recommendation_jaccard_mean": 0.6369
+    },
+    "module2_rgb__original_rgb_compatible": {
+      "input_condition": "module2_rgb",
+      "prompt_condition": "original_rgb_compatible",
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.815,
+      "within_recommendation_jaccard_mean": 0.7152
+    },
+    "module2_rgb__bounded_context_augmented": {
+      "input_condition": "module2_rgb",
+      "prompt_condition": "bounded_context_augmented",
+      "natural_report_count": 40,
+      "within_condition_pair_count": 80,
+      "within_key_factor_jaccard_mean": 0.7967,
+      "within_recommendation_jaccard_mean": 0.504
+    }
+  },
+  "cross_condition": {
+    "module2_only__bounded_context_augmented_with_module2_rgb__bounded_context_augmented": {
+      "comparison_type": "input_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.7535,
+      "recommendation_jaccard_mean": 0.498
+    },
+    "module2_only__neutral_with_module2_only__bounded_context_augmented": {
+      "comparison_type": "prompt_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.5982,
+      "recommendation_jaccard_mean": 0.4745
+    },
+    "module2_only__neutral_with_module2_only__original_rgb_compatible": {
+      "comparison_type": "prompt_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.6162,
+      "recommendation_jaccard_mean": 0.5119
+    },
+    "module2_only__neutral_with_module2_rgb__neutral": {
+      "comparison_type": "input_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.6064,
+      "recommendation_jaccard_mean": 0.5222
+    },
+    "module2_only__original_rgb_compatible_with_module2_only__bounded_context_augmented": {
+      "comparison_type": "prompt_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.7946,
+      "recommendation_jaccard_mean": 0.6054
+    },
+    "module2_only__original_rgb_compatible_with_module2_rgb__original_rgb_compatible": {
+      "comparison_type": "input_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.8253,
+      "recommendation_jaccard_mean": 0.7238
+    },
+    "module2_rgb__neutral_with_module2_rgb__bounded_context_augmented": {
+      "comparison_type": "prompt_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.508,
+      "recommendation_jaccard_mean": 0.3487
+    },
+    "module2_rgb__neutral_with_module2_rgb__original_rgb_compatible": {
+      "comparison_type": "prompt_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.5735,
+      "recommendation_jaccard_mean": 0.4393
+    },
+    "module2_rgb__original_rgb_compatible_with_module2_rgb__bounded_context_augmented": {
+      "comparison_type": "prompt_effect",
+      "pair_count": 200,
+      "key_factor_jaccard_mean": 0.742,
+      "recommendation_jaccard_mean": 0.5013
+    }
+  }
+}

@@ -1,0 +1,5 @@
+﻿config,n,ICC,Spearman,ActAcc,QWKappa,MAE,meanPred,meanGT
+"baseline (현행: coupling+1, elbow orig)",98,0.752,0.751,0.367,0.522,1.888,5.05,3.35
+coupling=0 (partial REBA),98,0.747,0.755,0.469,0.59,1.602,4.72,3.35
+elbow=REBA[60-100],98,0.757,0.753,0.357,0.533,1.857,5.02,3.35
+both fixes,98,0.752,0.752,0.459,0.601,1.571,4.67,3.35

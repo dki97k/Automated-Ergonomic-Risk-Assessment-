@@ -1,0 +1,13 @@
+condition,feature,availability,reason
+alphapose_motionbert,shared_body_posture,available,"pelvis, neck, shoulders, elbows, wrists, hips, knees, and ankles are present"
+alphapose_motionbert,full_reba_final,not_estimable,head/ear and hand landmarks for neck and wrist scoring are unavailable
+alphapose_motionbert,wrist_flexion_twisting,not_estimable,hand landmarks required by Module 2 are unavailable
+alphapose_motionbert,neck_flexion,not_estimable,head/ear landmarks are unavailable
+alphapose_motionbert,shared_duration,available,duration can be estimated on shared trunk/arm/leg angle signals
+alphapose_motionbert,repetition,available_after_rep_run,REP++ accepts normalized major-body-joint JSONL
+sam3db,shared_body_posture,available,shared body joints are available
+sam3db,full_reba_final,available,MHR-70 keypoints include additional neck/wrist/hand landmarks expected by Module 2
+sam3db,wrist_flexion_twisting,available,MHR-70 hand/wrist landmarks are available
+sam3db,neck_flexion,available,MHR-70 head/neck landmarks are available
+sam3db,shared_duration,available,duration can be estimated on shared trunk/arm/leg angle signals
+sam3db,repetition,available_after_rep_run,REP++ accepts normalized major-body-joint JSONL

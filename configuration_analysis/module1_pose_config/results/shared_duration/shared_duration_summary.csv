@@ -1,0 +1,17 @@
+VIDEO_NM,Total frame,Total duration (s),Frequency (events/min),Mean holding time (s),Total static duration (s),Static posture ratio (%),condition
+MansoryBrickLaying_00_angle,1662,55.4,0.0,0.0,0.0,0.0,alphapose_motionbert
+MansoryBrickLaying_01_angle,3828,127.6,2.35,4.59,22.95,17.99,alphapose_motionbert
+MansoryBrickLaying_02_angle,7257,241.9,1.49,7.48,44.9,18.56,alphapose_motionbert
+MansoryCement_02_angle,5112,170.4,2.46,12.65,88.54,51.96,alphapose_motionbert
+RebarPlacement_00_angle,8508,283.6,2.12,15.48,154.83,54.59,alphapose_motionbert
+RebarTying_01_angle,1699,56.63,4.24,11.78,47.13,83.22,alphapose_motionbert
+RebarTying_02_angle,1918,63.93,0.94,63.93,63.93,99.99,alphapose_motionbert
+WallPlacement_00_angle,10507,350.23,2.4,15.64,218.99,62.53,alphapose_motionbert
+MansoryBrickLaying_00_angle,1662,55.4,1.08,5.13,5.13,9.26,sam3db
+MansoryBrickLaying_01_angle,3828,127.6,1.88,5.54,22.14,17.35,sam3db
+MansoryBrickLaying_02_angle,7257,241.9,0.25,6.57,6.57,2.72,sam3db
+MansoryCement_02_angle,5111,170.37,2.11,9.62,57.74,33.89,sam3db
+RebarPlacement_00_angle,8508,283.6,1.48,14.4,100.8,35.54,sam3db
+RebarTying_01_angle,1699,56.63,2.12,26.48,52.97,93.53,sam3db
+RebarTying_02_angle,1918,63.93,1.88,31.58,63.16,98.79,sam3db
+WallPlacement_00_angle,10507,350.23,2.57,14.41,216.13,61.71,sam3db

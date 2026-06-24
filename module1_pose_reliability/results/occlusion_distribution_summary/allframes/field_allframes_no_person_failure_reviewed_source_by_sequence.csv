@@ -1,0 +1,9 @@
+sequence,mixed,object,self
+MansoryBrickLaying_00,0,0,6
+MansoryBrickLaying_01,0,0,6
+MansoryBrickLaying_02,4,1,1
+MansoryCement_02,0,3,3
+RebarPlacement_00,0,1,5
+RebarTying_01,0,0,6
+RebarTying_02,0,0,6
+WallPlacement_00,0,1,5

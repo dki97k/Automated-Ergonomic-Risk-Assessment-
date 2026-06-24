@@ -1,0 +1,9 @@
+clip,alpha_static_duration_sec,sam_static_duration_sec,static_duration_diff_sam_minus_alpha,abs_static_duration_diff,alpha_static_ratio_percent,sam_static_ratio_percent,static_presence_changed
+MansoryBrickLaying_00_angle,0.0,5.13,5.13,5.13,0.0,9.26,True
+MansoryBrickLaying_01_angle,22.95,22.14,-0.8099999999999987,0.8099999999999987,17.99,17.35,False
+MansoryBrickLaying_02_angle,44.9,6.57,-38.33,38.33,18.56,2.72,False
+MansoryCement_02_angle,88.54,57.74,-30.800000000000004,30.800000000000004,51.96,33.89,False
+RebarPlacement_00_angle,154.83,100.8,-54.030000000000015,54.030000000000015,54.59,35.54,False
+RebarTying_01_angle,47.13,52.97,5.839999999999996,5.839999999999996,83.22,93.53,False
+RebarTying_02_angle,63.93,63.16,-0.7700000000000031,0.7700000000000031,99.99,98.79,False
+WallPlacement_00_angle,218.99,216.13,-2.8600000000000136,2.8600000000000136,62.53,61.71,False

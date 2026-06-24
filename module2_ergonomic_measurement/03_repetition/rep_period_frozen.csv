@@ -1,0 +1,9 @@
+clip,cycle_sec,std_sec,source,method,seed,tier,note
+MansoryBrickLaying_00,6.81,1.61,pipeline_reps.py,peak-count,0,Tier2,frozen Tier-2(cycle+std); per-clip raw overwritten (R6)
+MansoryBrickLaying_01,11.15,2.86,pipeline_reps.py,peak-count,0,Tier2,frozen Tier-2(cycle+std)
+MansoryBrickLaying_02,8.99,6.48,pipeline_reps.py,peak-count,0,Tier2,frozen Tier-2(cycle+std)
+MansoryCement_02,8.40,6.20,pipeline_reps.py,peak-count,0,Tier2,frozen Tier-2(cycle+std)
+RebarPlacement_00,10.57,6.15,pipeline_reps.py,peak-count,0,Tier2,frozen Tier-2(cycle+std)
+RebarTying_00,6.61,1.72,pipeline_reps.py,peak-count,0,Tier2,clip-name angle-CSV basis; frozen Tier-2(cycle+std)
+RebarTying_01,5.51,4.19,pipeline_reps.py,peak-count,0,Tier2,clip-name angle-CSV basis; frozen Tier-2(cycle+std)
+WallPlacement_00,12.15,6.54,pipeline_reps.py,peak-count,0,Tier2,frozen Tier-2(cycle+std)

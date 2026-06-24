@@ -1,0 +1,4 @@
+condition,structured_report_count,risk_summary_fleiss_kappa,key_factor_strict_accuracy,key_factor_answered_accuracy,key_factor_insufficient_evidence_rate,risk_summary_insufficient_evidence_rate,key_factor_recall_pred_yes,key_factor_f1_pred_yes,natural_report_count,within_key_factor_jaccard_mean,within_recommendation_jaccard_mean,labeled_claims,supported_claim_rate,unsupported_claim_rate,contradiction_rate
+rgb_only,40,,0.0,,1.0,1.0,0.0,0.0,40,0.801,0.6165,331,0.6465,0.3535,0.0
+reba_only,40,0.9475,0.2893,0.45,0.3571,0.6667,0.3191,0.4601,40,0.6975,0.6167,366,0.6257,0.3743,0.0
+full_module2,40,0.8611,0.8036,0.8036,0.0,0.0,0.9149,0.8866,40,0.6833,0.5692,421,0.7957,0.2043,0.0

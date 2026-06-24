@@ -1,0 +1,2 @@
+﻿interval_id,start_frame,end_frame,start_sec,end_sec,dur_s,look_at_frame,neck_flex,trunk_flex,trunk_bend,trunk_twist,knee_L,knee_R,uparm_L,uparm_R,lowarm_L,lowarm_R,wrist_L,wrist_R,verified
+1,0,1917,0.0,63.9,63.9,958,1,1,1,1,1,1,0,0,0,0,1,1,NO

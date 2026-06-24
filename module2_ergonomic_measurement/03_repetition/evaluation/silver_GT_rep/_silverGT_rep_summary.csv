@@ -1,0 +1,9 @@
+﻿clip,source_joint,n_reps_silver,n_frames
+MansoryBrickLaying_00,lower arm.left_flexion,7,1662
+MansoryBrickLaying_01,upperarm.left_flexion,14,3832
+MansoryBrickLaying_02,upperarm.right_flexion,33,7257
+MansoryCement_02,lower arm.right_flexion,24,5111
+RebarPlacement_00,upperarm.left_flexion,37,8511
+RebarTying_00,upperarm.left_flexion,5,1699
+RebarTying_01,upperarm.left_flexion,6,1918
+WallPlacement_00,upperarm.right_flexion,26,10508

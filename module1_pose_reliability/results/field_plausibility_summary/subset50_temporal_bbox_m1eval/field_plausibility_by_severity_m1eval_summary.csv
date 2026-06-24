@@ -1,0 +1,9 @@
+pipeline,field_occlusion_label,n,BLC_CV_m1eval,JAF_invalid_percent_m1eval
+AlphaPose-MotionBERT,none,50,0.410463451725446,24.666666666666668
+AlphaPose-MotionBERT,partial,50,0.4953509199481838,11.666666666666666
+AlphaPose-MotionBERT,severe_detected,50,0.3800434164840321,21.0
+AlphaPose-MotionBERT,severe_detection_failure_temporal_bbox,50,0.5453710579052015,16.666666666666668
+SAM-3DBody,none,50,0.14611625842129192,0.0
+SAM-3DBody,partial,50,0.1927857914318641,0.0
+SAM-3DBody,severe_detected,50,0.13597740263988575,0.0
+SAM-3DBody,severe_detection_failure_temporal_bbox,50,0.19241967502360544,0.0

@@ -1,0 +1,123 @@
+{
+  "case_id": "case_06",
+  "evidence_configuration": "alphapose_motionbert",
+  "evidence_available": {
+    "shared_body_posture": true,
+    "full_reba_final": false,
+    "neck_scoring": false,
+    "wrist_scoring": false,
+    "duration": true,
+    "repetition": true,
+    "rgb": false
+  },
+  "evidence_limitation": "AlphaPose-MotionBERT provides shared major-body-joint posture, duration, and repetition evidence. Full final REBA, neck, and wrist evidence are explicitly not estimable from the available joints.",
+  "meta": {
+    "fps": 30,
+    "total_frames": 1699,
+    "total_duration_sec": 56.633,
+    "missing_rows": 0
+  },
+  "shared_posture_summary": {
+    "scope": "trunk, upper arm, lower arm, and leg only",
+    "risk_bin_basis": "p90 shared-region posture score",
+    "regions": {
+      "trunk": {
+        "mean_score": 3.195,
+        "p90_score": 4.0,
+        "peak_score": 4,
+        "risk_bin": "High",
+        "n_frames": 1699
+      },
+      "upper_arm": {
+        "mean_score": 2.373,
+        "p90_score": 3.0,
+        "peak_score": 5,
+        "risk_bin": "High",
+        "n_frames": 1699
+      },
+      "lower_arm": {
+        "mean_score": 1.706,
+        "p90_score": 2.0,
+        "peak_score": 2,
+        "risk_bin": "High",
+        "n_frames": 1699
+      },
+      "leg": {
+        "mean_score": 3.793,
+        "p90_score": 4.0,
+        "peak_score": 4,
+        "risk_bin": "High",
+        "n_frames": 1699
+      }
+    }
+  },
+  "shared_joint_angle_summary": {
+    "scope": "angles computable from major body joints common to both pose configurations",
+    "trunk_flexion_deg": {
+      "mean": 37.174,
+      "p90": 46.7,
+      "max": 56.145
+    },
+    "trunk_bending_abs_deg": {
+      "mean": 12.566,
+      "p90": 22.757,
+      "max": 32.9
+    },
+    "trunk_twisting_abs_deg": {
+      "mean": 6.3,
+      "p90": 11.719,
+      "max": 18.911
+    },
+    "upper_arm_flexion_deg": {
+      "mean": 37.817,
+      "p90": 77.464,
+      "max": 173.339
+    },
+    "upper_arm_abduction_deg": {
+      "mean": 49.125,
+      "p90": 65.604,
+      "max": 166.644
+    },
+    "lower_arm_flexion_deg": {
+      "mean": 34.13,
+      "p90": 69.605,
+      "max": 88.89
+    },
+    "knee_flexion_deg": {
+      "mean": 132.502,
+      "p90": 154.362,
+      "max": 173.399
+    },
+    "leg_support_ratio": {
+      "mean": 0.455,
+      "p90": 0.528,
+      "max": 0.617
+    }
+  },
+  "additional_pose_dependent_evidence": {
+    "not_estimable": [
+      "full final REBA score",
+      "neck flexion/bending/twisting",
+      "wrist flexion/twisting"
+    ],
+    "reason": "AlphaPose-MotionBERT provides common major body joints but does not provide the head, ear, and hand landmarks required for Module 2 neck and wrist scoring."
+  },
+  "duration_summary": {
+    "scope": "shared trunk/arm/leg angle signals",
+    "total_duration_sec": 56.63,
+    "total_static_duration_sec": 47.13,
+    "static_posture_ratio_percent": 83.22,
+    "static_event_frequency_per_min": 4.24,
+    "mean_holding_time_sec": 11.78
+  },
+  "repetition_summary": {
+    "method": "REP++ on normalized major-body-joint coordinates",
+    "total_repetitions": 7,
+    "total_repetitions_from_peaks": 7,
+    "mean_period_sec": 6.856,
+    "repetition_rate_cycle_per_min": 8.752,
+    "frequency_band": "frequent",
+    "quality_flag": "poor",
+    "interpretation_note": "Use as configuration-sensitive temporal evidence; quality_flag=poor indicates that the repetition estimate should be interpreted cautiously."
+  }
+}

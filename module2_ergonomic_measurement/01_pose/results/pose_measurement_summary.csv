@@ -1,0 +1,9 @@
+﻿VIDEO_NM,Mean REBA score,Peak REBA score,90th percentile score,Time in high risk (s),Time in very high risk (s)
+MansoryBrickLaying_00,3.66,10,6.0,1.97,0.0
+MansoryBrickLaying_01,3.79,10,7.0,9.77,0.0
+MansoryBrickLaying_02,3.29,10,5.0,2.37,0.0
+MansoryCement_02,3.46,10,6.0,6.9,0.0
+RebarPlacement_00,5.43,11,8.0,56.77,0.13
+RebarTying_00,7.55,10,10.0,26.03,0.0
+RebarTying_01,7.93,10,10.0,30.27,0.0
+WallPlacement_00,5.69,10,9.0,134.13,0.0

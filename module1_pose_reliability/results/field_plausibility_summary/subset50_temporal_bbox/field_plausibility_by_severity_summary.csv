@@ -1,0 +1,9 @@
+pipeline,field_occlusion_label,n,ok,failure_rate_percent,left_right_bone_symmetry_error_mean,joint_angle_feasibility_mean,bone_length_cv_mean
+AlphaPose-MotionBERT,none,50,50,0.0,0.08284253045470727,1.0,0.4101709831154071
+AlphaPose-MotionBERT,partial,50,50,0.0,0.12601335375488995,1.0,0.4889846345828674
+AlphaPose-MotionBERT,severe_detected,50,50,0.0,0.1320503027401362,1.0,0.38318469727235804
+AlphaPose-MotionBERT,severe_detection_failure_temporal_bbox,50,50,0.0,0.11005710336346158,1.0,0.540946731290248
+SAM-3DBody,none,50,50,0.0,0.010225932748377737,1.0,0.0431133127130867
+SAM-3DBody,partial,50,50,0.0,0.012815005227646201,1.0,0.057008091860485714
+SAM-3DBody,severe_detected,50,50,0.0,0.011058373568812462,1.0,0.054091333888651505
+SAM-3DBody,severe_detection_failure_temporal_bbox,50,50,0.0,0.01239646481219693,1.0,0.05259369194713391

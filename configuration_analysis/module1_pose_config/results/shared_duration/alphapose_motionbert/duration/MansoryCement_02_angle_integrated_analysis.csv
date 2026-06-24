@@ -1,0 +1,32 @@
+﻿Category,Part,start_frame,end_frame,duration_sec
+Total,Whole Body,311,433,4.1
+Total,Whole Body,948,1891,31.47
+Total,Whole Body,1967,2362,13.2
+Total,Whole Body,2388,2566,5.97
+Total,Whole Body,2646,2818,5.77
+Total,Whole Body,3850,4288,14.63
+Total,Whole Body,4593,4994,13.4
+Part,Trunk,311,433,4.1
+Part,Trunk,948,1073,4.2
+Part,Trunk,1116,1251,4.53
+Part,Trunk,1280,1420,4.7
+Part,Trunk,1612,1833,7.4
+Part,Trunk,1993,2362,12.33
+Part,Trunk,2388,2566,5.97
+Part,Trunk,2646,2818,5.77
+Part,Trunk,3880,4251,12.4
+Part,Trunk,4782,4994,7.1
+Part,Legs,3850,4288,14.63
+Part,Arms (L),1029,1207,5.97
+Part,Arms (L),1225,1449,7.5
+Part,Arms (L),1467,1693,7.57
+Part,Arms (L),1741,1891,5.03
+Part,Arms (L),1967,2180,7.13
+Part,Arms (L),3861,4242,12.73
+Part,Arms (L),4627,4786,5.33
+Part,Arms (R),1101,1250,5.0
+Part,Arms (R),1360,1869,17.0
+Part,Arms (R),2000,2300,10.03
+Part,Arms (R),3944,4081,4.6
+Part,Arms (R),4095,4229,4.5
+Part,Arms (R),4593,4794,6.73

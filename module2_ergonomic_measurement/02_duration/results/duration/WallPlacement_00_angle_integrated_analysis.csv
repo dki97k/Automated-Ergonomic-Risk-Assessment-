@@ -1,0 +1,77 @@
+﻿Category,Part,start_frame,end_frame,duration_sec
+Total,Whole Body,0,788,26.3
+Total,Whole Body,1122,1366,8.17
+Total,Whole Body,1830,2294,15.5
+Total,Whole Body,2459,3431,32.43
+Total,Whole Body,3534,4620,36.23
+Total,Whole Body,4623,5823,40.03
+Total,Whole Body,5915,6307,13.1
+Total,Whole Body,7115,7262,4.93
+Total,Whole Body,7303,7492,6.33
+Total,Whole Body,7532,7663,4.4
+Total,Whole Body,8372,8580,6.97
+Total,Whole Body,8811,9068,8.6
+Total,Whole Body,9287,9502,7.2
+Total,Whole Body,9570,9774,6.83
+Total,Whole Body,9777,9945,5.63
+Total,Whole Body,10128,10379,8.4
+Part,Neck,1224,1366,4.77
+Part,Neck,2881,3325,14.83
+Part,Neck,3842,3961,4.0
+Part,Neck,5207,5742,17.87
+Part,Neck,6097,6273,5.9
+Part,Neck,7310,7483,5.8
+Part,Neck,9570,9774,6.83
+Part,Trunk,0,292,9.77
+Part,Trunk,417,770,11.8
+Part,Trunk,1842,2294,15.1
+Part,Trunk,2501,2746,8.2
+Part,Trunk,2767,3351,19.5
+Part,Trunk,3629,3767,4.63
+Part,Trunk,3811,4579,25.63
+Part,Trunk,4647,4822,5.87
+Part,Trunk,4852,5002,5.03
+Part,Trunk,5107,5263,5.23
+Part,Trunk,5930,6288,11.97
+Part,Trunk,8404,8547,4.8
+Part,Trunk,8827,9029,6.77
+Part,Trunk,9287,9502,7.2
+Part,Trunk,9777,9945,5.63
+Part,Trunk,10128,10379,8.4
+Part,Legs,0,768,25.63
+Part,Legs,1919,2188,9.0
+Part,Legs,2497,3431,31.17
+Part,Legs,3534,4620,36.23
+Part,Legs,4629,5822,39.8
+Part,Legs,5917,6288,12.4
+Part,Legs,8811,9068,8.6
+Part,Arms (L),109,291,6.1
+Part,Arms (L),317,788,15.73
+Part,Arms (L),1122,1262,4.7
+Part,Arms (L),1921,2083,5.43
+Part,Arms (L),2459,2621,5.43
+Part,Arms (L),2640,3349,23.67
+Part,Arms (L),3610,3792,6.1
+Part,Arms (L),3809,4179,12.37
+Part,Arms (L),4196,4388,6.43
+Part,Arms (L),4775,5823,34.97
+Part,Arms (L),6097,6270,5.8
+Part,Arms (L),7115,7262,4.93
+Part,Arms (L),7303,7491,6.3
+Part,Arms (L),7532,7663,4.4
+Part,Arms (L),8828,9053,7.53
+Part,Arms (L),9779,9918,4.67
+Part,Arms (R),0,364,12.17
+Part,Arms (R),415,565,5.03
+Part,Arms (R),608,760,5.1
+Part,Arms (R),1122,1262,4.7
+Part,Arms (R),1830,2002,5.77
+Part,Arms (R),2461,3389,30.97
+Part,Arms (R),3612,3765,5.13
+Part,Arms (R),3810,4540,24.37
+Part,Arms (R),4623,4745,4.1
+Part,Arms (R),5058,5822,25.5
+Part,Arms (R),5915,6035,4.03
+Part,Arms (R),6073,6307,7.83
+Part,Arms (R),7345,7492,4.93
+Part,Arms (R),8372,8580,6.97

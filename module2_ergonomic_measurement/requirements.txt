@@ -1,0 +1,13 @@
+# Module 2 reproduction — pinned-light (versions are lower bounds)
+# [Tier 1 — needed for python run_measurement.py / verify_measurement_release.py]
+numpy>=1.24
+pandas>=2.0
+openpyxl>=3.1      # reads repetition consistency workbook
+
+# [Tier 1 optional — useful for auxiliary diagnostics]
+matplotlib>=3.7
+tqdm>=4.65
+
+# [Tier 2 optional — only for full repetition-model reruns]
+torch>=2.0
+opencv-python>=4.8

@@ -1,0 +1,33 @@
+clip,region,alpha_risk_bin,sam_risk_bin,risk_direction_alpha_to_sam,risk_bin_changed,p90_score_alpha,p90_score_sam,p90_score_diff_sam_minus_alpha,abs_p90_score_diff
+MansoryBrickLaying_00,leg,Medium,Medium,unchanged,False,2.0,2.0,0.0,0.0
+MansoryBrickLaying_00,lower_arm,High,High,unchanged,False,2.0,2.0,0.0,0.0
+MansoryBrickLaying_00,trunk,High,High,unchanged,False,3.0,3.0,0.0,0.0
+MansoryBrickLaying_00,upper_arm,High,High,unchanged,False,3.0,3.0,0.0,0.0
+MansoryBrickLaying_01,leg,Medium,High,higher-risk shift,True,2.0,3.0,1.0,1.0
+MansoryBrickLaying_01,lower_arm,High,High,unchanged,False,2.0,2.0,0.0,0.0
+MansoryBrickLaying_01,trunk,High,High,unchanged,False,3.0,3.0,0.0,0.0
+MansoryBrickLaying_01,upper_arm,High,High,unchanged,False,5.0,3.0,-2.0,2.0
+MansoryBrickLaying_02,leg,High,Medium,lower-risk shift,True,3.0,2.0,-1.0,1.0
+MansoryBrickLaying_02,lower_arm,High,High,unchanged,False,2.0,2.0,0.0,0.0
+MansoryBrickLaying_02,trunk,High,High,unchanged,False,3.0,3.0,0.0,0.0
+MansoryBrickLaying_02,upper_arm,High,High,unchanged,False,3.0,3.0,0.0,0.0
+MansoryCement_02,leg,High,High,unchanged,False,3.0,4.0,1.0,1.0
+MansoryCement_02,lower_arm,High,High,unchanged,False,2.0,2.0,0.0,0.0
+MansoryCement_02,trunk,High,High,unchanged,False,3.0,3.0,0.0,0.0
+MansoryCement_02,upper_arm,Medium,Medium,unchanged,False,2.0,2.0,0.0,0.0
+RebarPlacement_00,leg,High,High,unchanged,False,4.0,4.0,0.0,0.0
+RebarPlacement_00,lower_arm,High,High,unchanged,False,2.0,2.0,0.0,0.0
+RebarPlacement_00,trunk,High,High,unchanged,False,4.0,4.0,0.0,0.0
+RebarPlacement_00,upper_arm,High,High,unchanged,False,3.0,3.0,0.0,0.0
+RebarTying_01,leg,High,High,unchanged,False,4.0,4.0,0.0,0.0
+RebarTying_01,lower_arm,High,High,unchanged,False,2.0,2.0,0.0,0.0
+RebarTying_01,trunk,High,High,unchanged,False,4.0,3.0,-1.0,1.0
+RebarTying_01,upper_arm,High,High,unchanged,False,3.0,5.0,2.0,2.0
+RebarTying_02,leg,High,High,unchanged,False,4.0,4.0,0.0,0.0
+RebarTying_02,lower_arm,High,High,unchanged,False,2.0,2.0,0.0,0.0
+RebarTying_02,trunk,High,High,unchanged,False,4.0,3.0,-1.0,1.0
+RebarTying_02,upper_arm,Medium,High,higher-risk shift,True,2.0,3.0,1.0,1.0
+WallPlacement_00,leg,High,High,unchanged,False,4.0,4.0,0.0,0.0
+WallPlacement_00,lower_arm,High,High,unchanged,False,2.0,2.0,0.0,0.0
+WallPlacement_00,trunk,High,High,unchanged,False,4.0,3.0,-1.0,1.0
+WallPlacement_00,upper_arm,High,High,unchanged,False,3.0,3.0,0.0,0.0

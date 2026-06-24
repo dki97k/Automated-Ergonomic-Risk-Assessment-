@@ -1,0 +1,13 @@
+{
+  "n_shared_region_case_pairs": 32,
+  "shared_region_risk_transition_rate": 0.09375,
+  "higher_risk_shift_rate_alpha_to_sam": 0.0625,
+  "lower_risk_shift_rate_alpha_to_sam": 0.03125,
+  "median_abs_shared_region_p90_score_diff": 0.0,
+  "shared_duration_status": "ok",
+  "shared_duration_presence_transition_rate": 0.125,
+  "median_abs_static_duration_diff_sec": 5.484999999999998,
+  "repetition_status": "ok",
+  "repetition_frequency_band_change_rate": 0.375,
+  "median_abs_mean_period_diff_sec": 1.1089781746031764
+}
